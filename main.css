@@ -39,6 +39,9 @@ li {
 body {
     background: var(--bg);
 }
+button{
+    cursor: pointer;
+}
 .btn {
     position: absolute;
     top: 20px;
